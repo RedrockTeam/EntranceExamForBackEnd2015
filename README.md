@@ -40,8 +40,8 @@
 
 1. 我们的首要目标就是把戴老板的博客模板扒下来为Step2用： http://blog.toruneko.net
 2. 需要扒下：
-	1. 文章列表页（即http://blog.toruneko.net）
-	2. 文章详情页（如http://blog.toruneko.net/35）
+	1. 文章列表页（ 即 http://blog.toruneko.net ）
+	2. 文章详情页（ 如 http://blog.toruneko.net/35 ）
 3. 去其糟粕，画龙点睛：
 	1. 读一读Step2中要实现的功能，把多余的功能去掉，把不够的功能自己想个地方加上
 
@@ -74,7 +74,9 @@
 - 良好的数据库设计(三范式)
 - 注意Web安全(XSS, SQL注入等)
 
-	
+
+### 评判标准
+
 ## 面试的具体内容
 
 - 基础知识
